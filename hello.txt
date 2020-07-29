@@ -12,3 +12,4 @@ Hello JVM
 Hello Docker
 Hello Dubbo
 Hello Mybatis
+Hello Thrift
