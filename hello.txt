@@ -7,3 +7,4 @@ Hello Swift
 Hello C++
 Hello C
 Hello Java Script
+Hello Ruby
